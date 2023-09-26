@@ -34,7 +34,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/and101/Pli-1y_F.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='completed.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
