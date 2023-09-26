@@ -36,7 +36,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='completed.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **Giphy**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
